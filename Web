@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<title>Simple coding tutorials</title>
+<meta charset="utf-8">
+
+<body>
+
+<h1>WEB</h1>
+
+<ol>
+  <li><a href="html" taget="_blank" title="html">html</a></li>
+  <li><a href="CSS" target="_blank" title="CSS">CSS</a></li>
+  <li><a href="Javascript" target="_blank" title="CSS">Javascript</a></li>
+</ol>
+
+ <h3>The purpose of this website</h3>
+
+  <p>This is a simple website created to display definition of the <strong> HTML, CSS, Javascript</strong> and some links to other website
+  which goes into the depth of each codes and perhaps learn them.</p>
+
+  <br><u>click on the title of each segment to go to tutorials</u>
+
+  <p>Credits to:<a href="http://code-night.ga/" taget="_blank">코딩야학 3기</a>
+</body>
+</html>
